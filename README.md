@@ -120,7 +120,19 @@ preprocessor = ColumnTransformer([
 | `Medibuddy Insurance Data Price.xlsx` | Source dataset 2 |
 
 ---
+## Visual Snapshots
 
+### BMI Distribution
+![BMI Distribution](BMI_DISTRIBUTION.pdf)
+
+### Smoker vs Non-Smoker Charges
+![Smoker vs Charges](smoker_vs_charges_chart.pdf)
+
+### Age vs Insurance Charges (Correlation = 0.30)
+![Age vs Charges](age_vs_charges_chart.pdf)
+
+### Average Charges by Region
+![Region Charges](region_charges_chart.pdf)
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/jawahar-ranganathan) | [GitHub](https://github.com/Jawahar007j)
